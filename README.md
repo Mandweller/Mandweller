@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nelson!
-- 👀 I’m interested in learning how to build sites and apps to make my ideas come to life.
-- 🌱 I’m currently learning Python for Data Engineering
-- 💞️ On the side... I’m looking to collaborate on projects that merge IOT and data collection/analysis.
+- I combine Data Engineering with AI to make really cool projects!
+- If I had to update this page for everything I learnt I'd be here all day...
+- Enjoy the repos...
 - 📫 Reach me at nelsonmandeladata@gmail.com.
 
 <!---
