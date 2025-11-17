@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nelson!
-- I combine Data Engineering with AI to make really cool projects!
+- I combine Data Engineering with Web Dev to make really cool projects!
 - If I had to update this page for everything I learnt I'd be here all day...
 - Enjoy the repos...
 - 📫 Reach me at nelsonmandeladata@gmail.com.
